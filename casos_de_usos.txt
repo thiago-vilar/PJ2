@@ -1,0 +1,7 @@
+Take 2 tablets of aspirin once a day.
+
+Aplicar 3 gotas no olho afetado três vezes ao dia
+
+Medication: "Aspirin", Dosage: "1", Unit: "tablet", Frequency: "once a day"
+
+Medicamento: "Ibuprofeno", Dosagem: "2", Unidade: "comprimidos", Frequência: "duas vezes ao dia", Parte do Corpo: "oral"

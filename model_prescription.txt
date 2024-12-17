@@ -1,0 +1,16 @@
+---------------------------------------------
+        Medical Prescription
+---------------------------------------------
+Patient: Elton John
+Date: 16 December 2024
+
+Prescription:
+1. Take 1 tablet of aspirin once a day.
+2. Apply 2 drops to the affected eye twice a day.
+
+Additional Notes:
+- Ensure the patient follows the dosage strictly.
+- Store medication in a cool, dry place.
+
+Doctor's Signature: _______________________
+---------------------------------------------
